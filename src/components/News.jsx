@@ -12,7 +12,7 @@ const { Option } = Select;
 const News = ({ simplified }) => {
     // const { data: cryptoNews } = useGetCryptoNewsQuery({ newsCategory: 'Cryptocurrency', count: simplified ? 6 : 12 })
 
-    console.log("news are here", useGetCryptoNewsQuery);
+    // console.log("news are here", useGetCryptoNewsQuery);
     // if(!cryptoNews?.value) return " Loading..."
     return (
         <Row gutter={[24, 24]}>
