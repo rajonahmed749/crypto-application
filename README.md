@@ -15,4 +15,4 @@
 
 ### `Live Site:`
 
-Open [https://crypto-update-today.web.app/](https://crypto-update-today.web.app/) open and check what's going on Crypto 🪙 world.
+Open [https://crypto-update-today.web.app/](https://crypto-update-today.web.app/) open and check what's going on Crypto 💰 💲 world.
