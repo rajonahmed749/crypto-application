@@ -8,11 +8,11 @@
 
 #### `Front End:`
     i. React js
-    ii. Material UI
-    iii. Firebase for user authentication
-    iv. React Hook Form
+    ii. Ant Design
+    iii. Firebase-hosting
+    iv. Rapid API
 
 
 ### `Live Site:`
 
-Open [https://word-warrior.web.app/](https://word-warrior.web.app/) to view its live site.
+Open [https://crypto-update-today.web.app/](https://crypto-update-today.web.app/) open and check what's going on Crypto🪙 world.
